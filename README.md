@@ -1,3 +1,3 @@
 # hilander.io
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/LarytheLord/hilander.io)
+A web applicantion for docs and a smaller verson of notion
